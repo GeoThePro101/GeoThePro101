@@ -2,10 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif"  />
+ <img align="center" height="300" width="1000" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 
 ###
 
+<h2>I Code With 🛠️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -28,6 +29,7 @@
 
 ###
 
+<h2>My Socials 🔗</h2>
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100006842539034" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -44,7 +46,10 @@
 </div>
 
 ###
+<h2>About me 👨‍💻</h2>
+<p align="left">🎲 Fun fact: I Love Learning New Things 😁</p>
+<p align="left">🎯 Goals: To Be A Web Developer 👨‍🚀</p>
+<p align="left">📚 Im currently learning: javascript 📚</p>
 
-<p align="left">I Love Learning New Things 😁</p>
 
 ###
