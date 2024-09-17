@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/gffrsn.co/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="cogeofferson@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/geofferson-co-436381296/" target="_blank">
@@ -48,7 +48,7 @@
 ###
 <h2>About me 👨‍💻</h2>
 <p align="left">🎲 Fun fact: I Love Learning New Things 😁</p>
-<p align="left">🎯 Goals: To Be A Web Developer 👨‍🚀</p>
+<p align="left">🎯 Goals: To Be A Software Engineer👨‍🚀</p>
 <p align="left">📚 Im currently learning: javascript 📚</p>
 
 
