@@ -22,8 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
@@ -48,8 +46,8 @@
 ###
 <h2>About me 👨‍💻</h2>
 <p align="left">🎲 Fun fact: I Love Learning New Things 😁</p>
-<p align="left">🎯 Goals: To Be A Software Engineer👨‍🚀</p>
-<p align="left">📚 Im currently learning: javascript 📚</p>
+<p align="left">🎯 Goals: Aspiring Data Analyst👨‍🚀</p>
+<p align="left">📚 Im currently learning: Python 📚</p>
 
 
 ###
