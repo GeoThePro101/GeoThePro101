@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Geofferon Co.<br>Aspiring Software Engineer 🧑‍💻</h2>
+<h2 align="left">Hi 👋! My name is Geofferon Co.<br>Aspiring Data Analyst 🧑‍💻</h2>
 
 ###
 
